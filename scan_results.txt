@@ -1,0 +1,288 @@
+
+IT and OT Infrastructure Elements in Worldwide Range
+
+Industrial Control Systems exposed to the internet globally: 105,830
+Internet of Things devices exposed to the internet globally: 3,164,835
+Databases exposed to the internet globally: 5,699,438
+RDP connections exposed to the internet globally: 3,434,531
+FTP servers exposed to the internet globally: 9,166,498
+FTP servers with anonymous login globally: 3,434
+IP cameras exposed to the internet globally: 3,454,916
+Webserver with possibly accessible content globally: 467,091
+
+
+IT and OT Infrastructure Elements Filtered for Hungary
+
+Industrial Control Systems exposed to the internet in HU: 1,000
+Internet of Things devices exposed to the internet in HU: 3,988
+Databases exposed to the internet in HU: 8,224
+RDP connections exposed to the internet in HU: 5,483
+FTP servers exposed to the internet in HU: 26,882
+FTP servers with anonymous login in HU: 5
+IP cameras exposed to the internet in HU: 23,506
+Webserver with possibly accessible Content in HU: 4,458
+
+
+Compromised Popular Databases Worldwide
+
+Total compromised DBs globally: 28,525
+Compromised Elastic DBs globally: 11,273
+Compromised MongoDBs globally: 17,192
+Compromised MySQL DBs globally: 0
+Compromised PostgreSQL DBs globally: 0
+Compromised MS-SQL DBs globally: 0
+
+
+Compromised Popular Databases Filtered for Hungary
+
+Total compromised DBs in HU: 13
+Compromised Elastic DBs in HU: 7
+Compromised MongoDBs in HU: 6
+Compromised MySQL DBs in HU: 0
+Compromised PostgreSQL DBs in HU: 0
+Compromised MS-SQL DBs in HU: 0
+
+
+
+Date of Sample: November 23, 2022
+--------------------------------------------------------------------------------
+
+IT and OT Infrastructure Elements in Worldwide Range
+
+Industrial Control Systems exposed to the internet globally: 96,541
+Internet of Things devices exposed to the internet globally: 2,251,586
+Databases exposed to the internet globally: 5,107,373
+RDP connections exposed to the internet globally: 3,032,704
+FTP servers exposed to the internet globally: 8,490,256
+FTP servers with anonymous login globally: 3,701
+IP cameras exposed to the internet globally: 3,386,617
+Webserver with possibly accessible content globally: 421,140
+
+
+IT and OT Infrastructure Elements Filtered for Hungary
+
+Industrial Control Systems exposed to the internet in HU: 893
+Internet of Things devices exposed to the internet in HU: 4,121
+Databases exposed to the internet in HU: 7,804
+RDP connections exposed to the internet in HU: 5,133
+FTP servers exposed to the internet in HU: 24,565
+FTP servers with anonymous login in HU: 7
+IP cameras exposed to the internet in HU: 23,497
+Webserver with possibly accessible Content in HU: 2,642
+
+
+Compromised Popular Databases Worldwide
+
+Total compromised DBs globally: 11,828
+Compromised Elastic DBs globally: 4,186
+Compromised MongoDBs globally: 7,565
+Compromised MySQL DBs globally: 0
+Compromised PostgreSQL DBs globally: 0
+Compromised MS-SQL DBs globally: 0
+
+
+Compromised Popular Databases Filtered for Hungary
+
+Total compromised DBs in HU: 4
+Compromised Elastic DBs in HU: 0
+Compromised MongoDBs in HU: 4
+Compromised MySQL DBs in HU: 0
+Compromised PostgreSQL DBs in HU: 0
+Compromised MS-SQL DBs in HU: 0
+
+
+
+Date of Sample: January 03, 2023
+--------------------------------------------------------------------------------
+
+IT and OT Infrastructure Elements in Worldwide Range
+
+Industrial Control Systems exposed to the internet globally: 96,306
+Internet of Things devices exposed to the internet globally: 1,201,796
+Databases exposed to the internet globally: 4,937,762
+RDP connections exposed to the internet globally: 2,945,708
+FTP servers exposed to the internet globally: 8,371,544
+FTP servers with anonymous login globally: 3,483
+IP cameras exposed to the internet globally: 3,522,640
+Webserver with possibly accessible content globally: 425,459
+
+
+IT and OT Infrastructure Elements Filtered for Hungary
+
+Industrial Control Systems exposed to the internet in HU: 910
+Internet of Things devices exposed to the internet in HU: 4,152
+Databases exposed to the internet in HU: 7,770
+RDP connections exposed to the internet in HU: 5,140
+FTP servers exposed to the internet in HU: 24,313
+FTP servers with anonymous login in HU: 5
+IP cameras exposed to the internet in HU: 23,755
+Webserver with possibly accessible Content in HU: 2,675
+
+
+Compromised Popular Databases Worldwide
+
+Total compromised DBs globally: 172
+Compromised Elastic DBs globally: 0
+Compromised MongoDBs globally: 112
+Compromised MySQL DBs globally: 0
+Compromised PostgreSQL DBs globally: 0
+Compromised MS-SQL DBs globally: 0
+
+
+Compromised Popular Databases Filtered for Hungary
+
+Total compromised DBs in HU: 0
+Compromised Elastic DBs in HU: 0
+Compromised MongoDBs in HU: 0
+Compromised MySQL DBs in HU: 0
+Compromised PostgreSQL DBs in HU: 0
+Compromised MS-SQL DBs in HU: 0
+
+
+
+Date of Sample: January 26, 2023
+--------------------------------------------------------------------------------
+
+IT and OT Infrastructure Elements in Worldwide Range
+
+Industrial Control Systems exposed to the internet globally: 87,939
+Internet of Things devices exposed to the internet globally: 2,739,840
+Databases exposed to the internet globally: 4,755,686
+RDP connections exposed to the internet globally: 2,638,624
+FTP servers exposed to the internet globally: 7,488,273
+FTP servers with anonymous login globally: 3,573
+IP cameras exposed to the internet globally: 3,413,069
+Webserver with possibly accessible content globally: 433,315
+
+
+IT and OT Infrastructure Elements Filtered for Hungary
+
+Industrial Control Systems exposed to the internet in HU: 789
+Internet of Things devices exposed to the internet in HU: 4,055
+Databases exposed to the internet in HU: 7,433
+RDP connections exposed to the internet in HU: 4,735
+FTP servers exposed to the internet in HU: 21,877
+FTP servers with anonymous login in HU: 7
+IP cameras exposed to the internet in HU: 22,916
+Webserver with possibly accessible Content in HU: 2,853
+
+
+Compromised Popular Databases Worldwide
+
+Total compromised DBs globally: 13,144
+Compromised Elastic DBs globally: 4,804
+Compromised MongoDBs globally: 8,267
+Compromised MySQL DBs globally: 0
+Compromised PostgreSQL DBs globally: 0
+Compromised MS-SQL DBs globally: 0
+
+
+Compromised Popular Databases Filtered for Hungary
+
+Total compromised DBs in HU: 10
+Compromised Elastic DBs in HU: 5
+Compromised MongoDBs in HU: 5
+Compromised MySQL DBs in HU: 0
+Compromised PostgreSQL DBs in HU: 0
+Compromised MS-SQL DBs in HU: 0
+
+
+
+Date of Sample: February 21, 2023
+--------------------------------------------------------------------------------
+
+IT and OT Infrastructure Elements in Worldwide Range
+
+Industrial Control Systems exposed to the internet globally: 95,639
+Internet of Things devices exposed to the internet globally: 3,789,569
+Databases exposed to the internet globally: 5,264,871
+RDP connections exposed to the internet globally: 2,908,368
+FTP servers exposed to the internet globally: 8,073,238
+FTP servers with anonymous login globally: 3,548
+IP cameras exposed to the internet globally: 3,776,190
+Webserver with possibly accessible content globally: 467,398
+
+
+IT and OT Infrastructure Elements Filtered for Hungary
+
+Industrial Control Systems exposed to the internet in HU: 846
+Internet of Things devices exposed to the internet in HU: 4,956
+Databases exposed to the internet in HU: 8,187
+RDP connections exposed to the internet in HU: 5,161
+FTP servers exposed to the internet in HU: 23,577
+FTP servers with anonymous login in HU: 6
+IP cameras exposed to the internet in HU: 24,553
+Webserver with possibly accessible Content in HU: 2,993
+
+
+Compromised Popular Databases Worldwide
+
+Total compromised DBs globally: 19,834
+Compromised Elastic DBs globally: 6,807
+Compromised MongoDBs globally: 12,953
+Compromised MySQL DBs globally: 0
+Compromised PostgreSQL DBs globally: 0
+Compromised MS-SQL DBs globally: 0
+
+
+Compromised Popular Databases Filtered for Hungary
+
+Total compromised DBs in HU: 11
+Compromised Elastic DBs in HU: 4
+Compromised MongoDBs in HU: 7
+Compromised MySQL DBs in HU: 0
+Compromised PostgreSQL DBs in HU: 0
+Compromised MS-SQL DBs in HU: 0
+
+
+
+Date of Sample: March 11, 2023
+--------------------------------------------------------------------------------
+
+IT and OT Infrastructure Elements in Worldwide Range
+
+Industrial Control Systems exposed to the internet globally: 101,631
+Internet of Things devices exposed to the internet globally: 4,061,278
+Databases exposed to the internet globally: 5,522,124
+RDP connections exposed to the internet globally: 3,121,935
+FTP servers exposed to the internet globally: 8,522,056
+FTP servers with anonymous login globally: 3,706
+IP cameras exposed to the internet globally: 3,883,873
+Webserver with possibly accessible content globally: 473,047
+
+
+IT and OT Infrastructure Elements Filtered for Hungary
+
+Industrial Control Systems exposed to the internet in HU: 881
+Internet of Things devices exposed to the internet in HU: 4,966
+Databases exposed to the internet in HU: 8,756
+RDP connections exposed to the internet in HU: 5,447
+FTP servers exposed to the internet in HU: 24,850
+FTP servers with anonymous login in HU: 3
+IP cameras exposed to the internet in HU: 23,750
+Webserver with possibly accessible Content in HU: 3,083
+
+
+Compromised Popular Databases Worldwide
+
+Total compromised DBs globally: 20,996
+Compromised Elastic DBs globally: 6,928
+Compromised MongoDBs globally: 13,990
+Compromised MySQL DBs globally: 0
+Compromised PostgreSQL DBs globally: 0
+Compromised MS-SQL DBs globally: 0
+
+
+Compromised Popular Databases Filtered for Hungary
+
+Total compromised DBs in HU: 12
+Compromised Elastic DBs in HU: 5
+Compromised MongoDBs in HU: 7
+Compromised MySQL DBs in HU: 0
+Compromised PostgreSQL DBs in HU: 0
+Compromised MS-SQL DBs in HU: 0
+
+
+
+Date of Sample: March 23, 2023
+--------------------------------------------------------------------------------
